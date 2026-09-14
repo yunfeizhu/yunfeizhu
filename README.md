@@ -86,4 +86,4 @@
 | **[FastMCP](https://github.com/punkpeye/fastmcp)** | Preserve additional properties in tool output schemas. | [#373](https://github.com/punkpeye/fastmcp/pull/373) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[MCPHub](https://github.com/samanhappy/mcphub)** | Keep on-demand servers alive until running tools finish. | [#1164](https://github.com/samanhappy/mcphub/pull/1164) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 
-[View all merged pull requests →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu&type=pullrequests)
+[View all merged PRs to external projects →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu+is%3Apublic+-user%3Ayunfeizhu&type=pullrequests)
