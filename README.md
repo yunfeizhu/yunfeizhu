@@ -13,15 +13,7 @@
 
 **Languages and Tools:**
 
-<code><img src="./assets/reference/vue.svg" alt="Vue.js" title="Vue.js" height="32" width="32"></code>
-<code><img src="./assets/reference/typescript.svg" alt="TypeScript" title="TypeScript" height="32" width="32"></code>
-<code><img src="./assets/reference/javascript.svg" alt="JavaScript" title="JavaScript" height="32" width="32"></code>
-<code><img src="./assets/reference/react.svg" alt="React" title="React" height="32" width="32"></code>
-<code><img src="./assets/reference/html5.svg" alt="HTML5" title="HTML5" height="32" width="32"></code>
-<code><img src="./assets/reference/docker.svg" alt="Docker" title="Docker" height="32" width="32"></code>
-<code><img src="./assets/reference/git.svg" alt="Git" title="Git" height="32" width="32"></code>
-<code><img src="./assets/reference/python.svg" alt="Python" title="Python" height="32" width="32"></code>
-<code><img src="./assets/reference/nodejs.svg" alt="Node.js" title="Node.js" height="32" width="32"></code>
+<img src="./assets/reference/vue.svg" alt="Vue.js" title="Vue.js" height="32" width="32"> &nbsp; <img src="./assets/reference/typescript.svg" alt="TypeScript" title="TypeScript" height="32" width="32"> &nbsp; <img src="./assets/reference/javascript.svg" alt="JavaScript" title="JavaScript" height="32" width="32"> &nbsp; <img src="./assets/reference/react.svg" alt="React" title="React" height="32" width="32"> &nbsp; <img src="./assets/reference/html5.svg" alt="HTML5" title="HTML5" height="32" width="32"> &nbsp; <img src="./assets/reference/docker.svg" alt="Docker" title="Docker" height="32" width="32"> &nbsp; <img src="./assets/reference/git.svg" alt="Git" title="Git" height="32" width="32"> &nbsp; <img src="./assets/reference/python.svg" alt="Python" title="Python" height="32" width="32"> &nbsp; <img src="./assets/reference/nodejs.svg" alt="Node.js" title="Node.js" height="32" width="32">
 
 ## Gaming 🎮
 
