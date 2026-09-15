@@ -70,9 +70,9 @@
 ## Statistics 📊
 
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yunfeizhu&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;border_radius=10&amp;show=reviews&amp;custom_title=Euan+Zhu%27s+GitHub+Stats" height="180" alt="Euan Zhu's GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yunfeizhu&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;border_radius=10&amp;show=reviews&amp;custom_title=Euan+Zhu%27s+GitHub+Stats" height="165" alt="Euan Zhu's GitHub Stats">
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yunfeizhu&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10&amp;langs_count=6" height="180" alt="Most Used Languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yunfeizhu&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10&amp;langs_count=6" height="165" alt="Most Used Languages">
 </p>
 
 ## Open Source Contributions 🤝
