@@ -1,0 +1,49 @@
+name: Sync open-source contributions
+
+on:
+  schedule:
+    # 06:00 in Asia/Shanghai (UTC+8), every day.
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-contributions-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository == 'yunfeizhu/yunfeizhu' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+
+      - name: Test contribution filtering and README updates
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Fetch external merged contributions
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_PROMPT_DISABLED: '1'
+        run: python3 scripts/update_contributions.py
+
+      - name: Commit only when the contribution table changes
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No contribution changes."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --check
+          git commit -m 'chore: sync external open-source contributions'
+          git push origin HEAD:main

@@ -1,0 +1,16 @@
+{
+  "project_names": {
+    "ChristopherVR/pptx-viewer": "pptx-viewer",
+    "inokawa/virtua": "virtua",
+    "punkpeye/fastmcp": "FastMCP",
+    "samanhappy/mcphub": "MCPHub"
+  },
+  "descriptions": {
+    "https://github.com/ChristopherVR/pptx-viewer/pull/243": "Prevent an older PPTX load from overwriting the current deck.",
+    "https://github.com/ChristopherVR/pptx-viewer/pull/279": "Localize inspector and ribbon controls.",
+    "https://github.com/ChristopherVR/pptx-viewer/pull/281": "Add a Simplified Chinese reference locale.",
+    "https://github.com/inokawa/virtua/pull/965": "Fix viewport measurement for fixed-position containers.",
+    "https://github.com/punkpeye/fastmcp/pull/373": "Preserve additional properties in tool output schemas.",
+    "https://github.com/samanhappy/mcphub/pull/1164": "Keep on-demand servers alive until running tools finish."
+  }
+}

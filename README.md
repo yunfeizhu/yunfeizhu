@@ -77,6 +77,8 @@
 
 ## Open Source Contributions 🤝
 
+<!-- CONTRIBUTIONS:START -->
+
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | Prevent an older PPTX load from overwriting the current deck. | [#243](https://github.com/ChristopherVR/pptx-viewer/pull/243) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
@@ -85,5 +87,7 @@
 | **[virtua](https://github.com/inokawa/virtua)** | Fix viewport measurement for fixed-position containers. | [#965](https://github.com/inokawa/virtua/pull/965) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[FastMCP](https://github.com/punkpeye/fastmcp)** | Preserve additional properties in tool output schemas. | [#373](https://github.com/punkpeye/fastmcp/pull/373) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[MCPHub](https://github.com/samanhappy/mcphub)** | Keep on-demand servers alive until running tools finish. | [#1164](https://github.com/samanhappy/mcphub/pull/1164) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+
+<!-- CONTRIBUTIONS:END -->
 
 [View all merged PRs to external projects →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu+is%3Apublic+-user%3Ayunfeizhu&type=pullrequests)
