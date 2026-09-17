@@ -81,6 +81,7 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[antdv-next](https://github.com/antdv-next/antdv-next)** | fix(checkbox): clean up group value registration | [#894](https://github.com/antdv-next/antdv-next/pull/894) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ant-design](https://github.com/ant-design/ant-design)** | fix: use latest Transfer onSelectChange callback | [#59307](https://github.com/ant-design/ant-design/pull/59307) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | feat: support atomic cross-slide element updates through the public API | [#291](https://github.com/ChristopherVR/pptx-viewer/pull/291) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[antdv-next](https://github.com/antdv-next/antdv-next)** | fix(table): keep initially selected records in rowSelection.onChange across pages | [#881](https://github.com/antdv-next/antdv-next/pull/881) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
