@@ -81,6 +81,8 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(autosave): keep recovery snapshots until discard | [#324](https://github.com/ChristopherVR/pptx-viewer/pull/324) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(react): ignore serialization caches in history comparison | [#322](https://github.com/ChristopherVR/pptx-viewer/pull/322) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** | Add yunfeizhu/dsh-pptx-editor to Docs &amp; Rendering | [#5370](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/5370) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(i18n): localize recording and editor controls | [#311](https://github.com/ChristopherVR/pptx-viewer/pull/311) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)** | fix(Upload): preserve file list changes during auto upload | [#6969](https://github.com/Tencent/tdesign-vue-next/pull/6969) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
