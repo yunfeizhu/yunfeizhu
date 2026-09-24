@@ -81,6 +81,8 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(ui): align File backstage navigation across five bindings | [#351](https://github.com/ChristopherVR/pptx-viewer/pull/351) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix: align search field focus across five bindings | [#350](https://github.com/ChristopherVR/pptx-viewer/pull/350) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(autosave): acknowledge restores and surface delete failures | [#339](https://github.com/ChristopherVR/pptx-viewer/pull/339) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(autosave): show document names and await discard | [#326](https://github.com/ChristopherVR/pptx-viewer/pull/326) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(autosave): keep recovery snapshots until discard | [#324](https://github.com/ChristopherVR/pptx-viewer/pull/324) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
