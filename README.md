@@ -81,6 +81,8 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[ant-design](https://github.com/ant-design/ant-design)** | fix: clear Transfer selection on one-way removal | [#59428](https://github.com/ant-design/ant-design/pull/59428) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(demo): share React upload landing styles across five demos | [#354](https://github.com/ChristopherVR/pptx-viewer/pull/354) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | feat(shared): use web components for search, select, and checkbox controls | [#352](https://github.com/ChristopherVR/pptx-viewer/pull/352) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(ui): align File backstage navigation across five bindings | [#351](https://github.com/ChristopherVR/pptx-viewer/pull/351) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix: align search field focus across five bindings | [#350](https://github.com/ChristopherVR/pptx-viewer/pull/350) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
