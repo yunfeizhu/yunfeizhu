@@ -81,6 +81,8 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | feat(extensions): require approval for mcp-mail-server permanent deletion | [#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): clear stale filter row state | [#36](https://github.com/ChristopherVR/ooxml/pull/36) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): correct table, subtotal, save and sheet protection behavior | [#32](https://github.com/ChristopherVR/ooxml/pull/32) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | fix(ui): align editor appearance across all five bindings | [#359](https://github.com/ChristopherVR/pptx-viewer/pull/359) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ant-design](https://github.com/ant-design/ant-design)** | fix: clear Transfer selection on one-way removal | [#59428](https://github.com/ant-design/ant-design/pull/59428) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
