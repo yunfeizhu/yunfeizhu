@@ -81,6 +81,8 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(pptx): follow slide links outside slide shows | [#38](https://github.com/ChristopherVR/ooxml/pull/38) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | Add publisher listing for mcp.mail-server | [#3805](https://github.com/hashgraph-online/hol-guard/pull/3805) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | feat(extensions): require approval for mcp-mail-server permanent deletion | [#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): clear stale filter row state | [#36](https://github.com/ChristopherVR/ooxml/pull/36) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): correct table, subtotal, save and sheet protection behavior | [#32](https://github.com/ChristopherVR/ooxml/pull/32) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
