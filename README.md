@@ -81,6 +81,9 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): reject insertions that discard boundary data | [#49](https://github.com/ChristopherVR/ooxml/pull/49) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): keep table filters on their source columns | [#51](https://github.com/ChristopherVR/ooxml/pull/51) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
+| **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): rebase relative rules before deleting their anchors | [#47](https://github.com/ChristopherVR/ooxml/pull/47) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(pptx): follow slide links outside slide shows | [#38](https://github.com/ChristopherVR/ooxml/pull/38) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | Add publisher listing for mcp.mail-server | [#3805](https://github.com/hashgraph-online/hol-guard/pull/3805) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | feat(extensions): require approval for mcp-mail-server permanent deletion | [#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
