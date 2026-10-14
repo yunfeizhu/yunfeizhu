@@ -81,6 +81,7 @@
 
 | Project | Contribution | Pull request | Status |
 | --- | --- | :---: | :---: |
+| **[ant-design](https://github.com/ant-design/ant-design)** | fix: correct Table selection menu scope | [#59570](https://github.com/ant-design/ant-design/pull/59570) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): rebind self references when copying sheets | [#55](https://github.com/ChristopherVR/ooxml/pull/55) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): keep hidden records in place when sorting | [#53](https://github.com/ChristopherVR/ooxml/pull/53) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | fix(xlsx): reject insertions that discard boundary data | [#49](https://github.com/ChristopherVR/ooxml/pull/49) | <img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |
