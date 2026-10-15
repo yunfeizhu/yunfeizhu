@@ -7,9 +7,18 @@ using **Run workflow** on `main`.
 The updater searches for merged PRs authored by `yunfeizhu`, excludes repositories
 owned by `yunfeizhu`, and verifies the PR's target repository and merge status.
 Only public repositories with a license recognized by GitHub are included.
-The table is sorted by merge date, newest first. Existing summaries and display
-names are preserved in `scripts/contribution-overrides.json`; new rows use the
-PR title and repository name returned by GitHub.
+The table has one row per target repository. `project_order` in
+`scripts/contribution-overrides.json` controls the project order; new projects
+follow in alphabetical repository order. `project_summaries` and `project_names`
+provide the curated descriptions and display names. Projects without a summary
+use their latest merged PR title (or its existing `descriptions` override),
+prefixed with `Latest:`. These summaries can be updated as contributions evolve.
+
+Each row shows up to **6 PRs**, sorted by merge date, newest first, with three
+links per line. Larger groups include a **View all N** link to that repository's
+merged PRs authored by `yunfeizhu`. The heading totals count every verified PR
+and project, including PRs omitted from the compact display. The global link
+below the table remains available for browsing all external contributions.
 
 Only the block between `CONTRIBUTIONS:START` and `CONTRIBUTIONS:END` in `README.md`
 is regenerated. No change means no commit. Failed requests, incomplete search

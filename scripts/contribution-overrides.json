@@ -1,4 +1,28 @@
 {
+  "project_order": [
+    "ant-design/ant-design",
+    "ChristopherVR/ooxml",
+    "ChristopherVR/pptx-viewer",
+    "Tencent/tdesign-vue-next",
+    "antdv-next/antdv-next",
+    "hashgraph-online/hol-guard",
+    "punkpeye/fastmcp",
+    "samanhappy/mcphub",
+    "inokawa/virtua",
+    "awesome-dsh-plugin/awesome-dsh-plugin"
+  ],
+  "project_summaries": {
+    "ant-design/ant-design": "Table selection behavior, Transfer state and callbacks.",
+    "ChristopherVR/ooxml": "Spreadsheet formulas, filters, data integrity and slide links.",
+    "ChristopherVR/pptx-viewer": "Cross-framework UI, localization, recovery and atomic editing.",
+    "Tencent/tdesign-vue-next": "Upload file-list consistency during automatic uploads.",
+    "antdv-next/antdv-next": "Checkbox registration and cross-page Table selection.",
+    "hashgraph-online/hol-guard": "Mail extension integration and deletion safeguards.",
+    "punkpeye/fastmcp": "Additional properties in tool output schemas.",
+    "samanhappy/mcphub": "Server lifetime while tools are running.",
+    "inokawa/virtua": "Viewport measurement for fixed-position containers.",
+    "awesome-dsh-plugin/awesome-dsh-plugin": "PPTX editor listing in the plugin directory."
+  },
   "project_names": {
     "ChristopherVR/pptx-viewer": "pptx-viewer",
     "inokawa/virtua": "virtua",

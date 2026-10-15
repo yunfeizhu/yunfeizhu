@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 import re
 import subprocess
+from urllib.parse import urlencode
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,6 +16,8 @@ START = "<!-- CONTRIBUTIONS:START -->"
 END = "<!-- CONTRIBUTIONS:END -->"
 QUERY = f"is:pr is:merged author:{USERNAME} is:public -user:{USERNAME}"
 REPO_PATTERN = re.compile(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+")
+MAX_PRS_PER_PROJECT = 6
+PRS_PER_LINE = 3
 
 
 class SyncError(RuntimeError):
@@ -109,17 +112,36 @@ def table_text(value):
 
 
 def render_table(contributions, overrides):
-    lines = ["| Project | Contribution | Pull request | Status |",
-             "| --- | --- | :---: | :---: |"]
+    groups = {}
     for pr in contributions:
-        repo, number = pr["repo"], pr["number"]
-        url = f"https://github.com/{repo}/pull/{number}"
+        groups.setdefault(pr["repo"], []).append(pr)
+    priority = {repo: index for index, repo in enumerate(overrides.get("project_order", []))}
+    repositories = sorted(groups, key=lambda repo: (
+        priority.get(repo, len(priority)), repo.casefold(), repo))
+    lines = [
+        f"{len(contributions)} merged PRs across {len(groups)} external open-source projects. "
+        f"Showing up to {MAX_PRS_PER_PROJECT} recent PRs per project.",
+        "",
+        "| Project | Contributions | Merged PRs |",
+        "| --- | --- | --- |",
+    ]
+    for repo in repositories:
+        prs = sorted(groups[repo], key=lambda pr: (pr["merged_at"], pr["number"]), reverse=True)
         label = overrides.get("project_names", {}).get(repo, repo.split("/", 1)[1])
-        title = overrides.get("descriptions", {}).get(url, pr["title"])
+        latest_url = f"https://github.com/{repo}/pull/{prs[0]['number']}"
+        latest_title = overrides.get("descriptions", {}).get(latest_url, prs[0]["title"])
+        summary = overrides.get("project_summaries", {}).get(repo, f"Latest: {latest_title}")
+        links = [f"[#{pr['number']}](https://github.com/{repo}/pull/{pr['number']})"
+                 for pr in prs[:MAX_PRS_PER_PROJECT]]
+        chunks = ["&nbsp;·&nbsp;".join(links[index:index + PRS_PER_LINE])
+                  for index in range(0, len(links), PRS_PER_LINE)]
+        if len(prs) > MAX_PRS_PER_PROJECT:
+            query = urlencode({"q": f"is:pr is:merged author:{USERNAME}"})
+            chunks.append(f"[View&nbsp;all&nbsp;{len(prs)}&nbsp;→]"
+                          f"(https://github.com/{repo}/pulls?{query})")
         lines.append(
             f"| **[{table_text(label)}](https://github.com/{repo})** | "
-            f"{table_text(title)} | [#{number}]({url}) | "
-            '<img src="./assets/contributions/merged.svg" alt="Merged" width="68" height="22"> |'
+            f"{table_text(summary)} | {'<br>'.join(chunks)} |"
         )
     return "\n".join(lines)
 
