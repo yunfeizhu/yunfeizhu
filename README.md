@@ -20,13 +20,13 @@
 <table>
 <tr>
 <td width="230" align="center" valign="top">
-  <a href="https://store.steampowered.com/app/2680010/"><img src="./assets/games/khazan.jpg" width="220" alt="The First Berserker: Khazan cover"></a><br>
-  <sub><strong>The First Berserker: Khazan</strong></sub><br>
+  <a href="https://store.steampowered.com/app/4115450/"><img src="./assets/games/phantom-blade-zero.jpg" width="220" alt="Phantom Blade Zero cover"></a><br>
+  <sub><strong>Phantom Blade Zero</strong></sub><br>
   <sub>🟢 Now playing</sub>
 </td>
 <td width="230" align="center" valign="top">
-  <a href="https://store.steampowered.com/app/2483190/"><img src="./assets/games/forza-horizon-6.jpg" width="220" alt="Forza Horizon 6 cover"></a><br>
-  <sub><strong>Forza Horizon 6</strong></sub><br>
+  <a href="https://store.steampowered.com/app/2680010/"><img src="./assets/games/khazan.jpg" width="220" alt="The First Berserker: Khazan cover"></a><br>
+  <sub><strong>The First Berserker: Khazan</strong></sub><br>
   <sub>Previously played</sub>
 </td>
 <td width="230" align="center" valign="top">
