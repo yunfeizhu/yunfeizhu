@@ -79,14 +79,14 @@
 
 <!-- CONTRIBUTIONS:START -->
 
-46 merged PRs across 10 external open-source projects. Showing up to 6 recent PRs per project.
+47 merged PRs across 10 external open-source projects. Showing up to 6 recent PRs per project.
 
 | Project | Contributions | Merged PRs |
 | --- | --- | --- |
 | **[ant-design](https://github.com/ant-design/ant-design)** | Table selection behavior, Transfer state and callbacks. | [#59580](https://github.com/ant-design/ant-design/pull/59580)&nbsp;·&nbsp;[#59570](https://github.com/ant-design/ant-design/pull/59570)&nbsp;·&nbsp;[#59428](https://github.com/ant-design/ant-design/pull/59428)<br>[#59307](https://github.com/ant-design/ant-design/pull/59307) |
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | Spreadsheet formulas, filters, data integrity and slide links. | [#300](https://github.com/ChristopherVR/ooxml/pull/300)&nbsp;·&nbsp;[#282](https://github.com/ChristopherVR/ooxml/pull/282)&nbsp;·&nbsp;[#253](https://github.com/ChristopherVR/ooxml/pull/253)<br>[#252](https://github.com/ChristopherVR/ooxml/pull/252)&nbsp;·&nbsp;[#246](https://github.com/ChristopherVR/ooxml/pull/246)&nbsp;·&nbsp;[#245](https://github.com/ChristopherVR/ooxml/pull/245)<br>[View&nbsp;all&nbsp;16&nbsp;→](https://github.com/ChristopherVR/ooxml/pulls?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu) |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | Cross-framework UI, localization, recovery and atomic editing. | [#359](https://github.com/ChristopherVR/pptx-viewer/pull/359)&nbsp;·&nbsp;[#354](https://github.com/ChristopherVR/pptx-viewer/pull/354)&nbsp;·&nbsp;[#352](https://github.com/ChristopherVR/pptx-viewer/pull/352)<br>[#351](https://github.com/ChristopherVR/pptx-viewer/pull/351)&nbsp;·&nbsp;[#350](https://github.com/ChristopherVR/pptx-viewer/pull/350)&nbsp;·&nbsp;[#339](https://github.com/ChristopherVR/pptx-viewer/pull/339)<br>[View&nbsp;all&nbsp;16&nbsp;→](https://github.com/ChristopherVR/pptx-viewer/pulls?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu) |
-| **[tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)** | Upload file-list consistency during automatic uploads. | [#7055](https://github.com/Tencent/tdesign-vue-next/pull/7055)&nbsp;·&nbsp;[#6969](https://github.com/Tencent/tdesign-vue-next/pull/6969) |
+| **[tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)** | Upload file-list consistency during automatic uploads. | [#7091](https://github.com/Tencent/tdesign-vue-next/pull/7091)&nbsp;·&nbsp;[#7055](https://github.com/Tencent/tdesign-vue-next/pull/7055)&nbsp;·&nbsp;[#6969](https://github.com/Tencent/tdesign-vue-next/pull/6969) |
 | **[antdv-next](https://github.com/antdv-next/antdv-next)** | Checkbox registration and cross-page Table selection. | [#894](https://github.com/antdv-next/antdv-next/pull/894)&nbsp;·&nbsp;[#881](https://github.com/antdv-next/antdv-next/pull/881) |
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | Mail extension integration and deletion safeguards. | [#3805](https://github.com/hashgraph-online/hol-guard/pull/3805)&nbsp;·&nbsp;[#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) |
 | **[FastMCP](https://github.com/punkpeye/fastmcp)** | Additional properties in tool output schemas. | [#373](https://github.com/punkpeye/fastmcp/pull/373) |
