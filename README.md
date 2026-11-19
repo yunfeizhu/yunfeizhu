@@ -79,7 +79,7 @@
 
 <!-- CONTRIBUTIONS:START -->
 
-47 merged PRs across 10 external open-source projects. Showing up to 6 recent PRs per project.
+48 merged PRs across 10 external open-source projects. Showing up to 6 recent PRs per project.
 
 | Project | Contributions | Merged PRs |
 | --- | --- | --- |
@@ -91,7 +91,7 @@
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | Mail extension integration and deletion safeguards. | [#3805](https://github.com/hashgraph-online/hol-guard/pull/3805)&nbsp;·&nbsp;[#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) |
 | **[FastMCP](https://github.com/punkpeye/fastmcp)** | Additional properties in tool output schemas. | [#373](https://github.com/punkpeye/fastmcp/pull/373) |
 | **[MCPHub](https://github.com/samanhappy/mcphub)** | Server lifetime while tools are running. | [#1164](https://github.com/samanhappy/mcphub/pull/1164) |
-| **[virtua](https://github.com/inokawa/virtua)** | Viewport measurement for fixed-position containers. | [#965](https://github.com/inokawa/virtua/pull/965) |
+| **[virtua](https://github.com/inokawa/virtua)** | Viewport measurement for fixed-position containers. | [#1060](https://github.com/inokawa/virtua/pull/1060)&nbsp;·&nbsp;[#965](https://github.com/inokawa/virtua/pull/965) |
 | **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** | PPTX editor listing in the plugin directory. | [#5370](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/5370) |
 
 <!-- CONTRIBUTIONS:END -->
