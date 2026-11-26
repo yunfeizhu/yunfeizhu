@@ -79,7 +79,7 @@
 
 <!-- CONTRIBUTIONS:START -->
 
-48 merged PRs across 10 external open-source projects. Showing up to 6 recent PRs per project.
+50 merged PRs across 11 external open-source projects. Showing up to 6 recent PRs per project.
 
 | Project | Contributions | Merged PRs |
 | --- | --- | --- |
@@ -87,12 +87,13 @@
 | **[ooxml](https://github.com/ChristopherVR/ooxml)** | Spreadsheet formulas, filters, data integrity and slide links. | [#300](https://github.com/ChristopherVR/ooxml/pull/300)&nbsp;·&nbsp;[#282](https://github.com/ChristopherVR/ooxml/pull/282)&nbsp;·&nbsp;[#253](https://github.com/ChristopherVR/ooxml/pull/253)<br>[#252](https://github.com/ChristopherVR/ooxml/pull/252)&nbsp;·&nbsp;[#246](https://github.com/ChristopherVR/ooxml/pull/246)&nbsp;·&nbsp;[#245](https://github.com/ChristopherVR/ooxml/pull/245)<br>[View&nbsp;all&nbsp;16&nbsp;→](https://github.com/ChristopherVR/ooxml/pulls?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu) |
 | **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** | Cross-framework UI, localization, recovery and atomic editing. | [#359](https://github.com/ChristopherVR/pptx-viewer/pull/359)&nbsp;·&nbsp;[#354](https://github.com/ChristopherVR/pptx-viewer/pull/354)&nbsp;·&nbsp;[#352](https://github.com/ChristopherVR/pptx-viewer/pull/352)<br>[#351](https://github.com/ChristopherVR/pptx-viewer/pull/351)&nbsp;·&nbsp;[#350](https://github.com/ChristopherVR/pptx-viewer/pull/350)&nbsp;·&nbsp;[#339](https://github.com/ChristopherVR/pptx-viewer/pull/339)<br>[View&nbsp;all&nbsp;16&nbsp;→](https://github.com/ChristopherVR/pptx-viewer/pulls?q=is%3Apr+is%3Amerged+author%3Ayunfeizhu) |
 | **[tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)** | Upload file-list consistency during automatic uploads. | [#7091](https://github.com/Tencent/tdesign-vue-next/pull/7091)&nbsp;·&nbsp;[#7055](https://github.com/Tencent/tdesign-vue-next/pull/7055)&nbsp;·&nbsp;[#6969](https://github.com/Tencent/tdesign-vue-next/pull/6969) |
-| **[antdv-next](https://github.com/antdv-next/antdv-next)** | Checkbox registration and cross-page Table selection. | [#894](https://github.com/antdv-next/antdv-next/pull/894)&nbsp;·&nbsp;[#881](https://github.com/antdv-next/antdv-next/pull/881) |
+| **[antdv-next](https://github.com/antdv-next/antdv-next)** | Checkbox registration and cross-page Table selection. | [#1167](https://github.com/antdv-next/antdv-next/pull/1167)&nbsp;·&nbsp;[#894](https://github.com/antdv-next/antdv-next/pull/894)&nbsp;·&nbsp;[#881](https://github.com/antdv-next/antdv-next/pull/881) |
 | **[hol-guard](https://github.com/hashgraph-online/hol-guard)** | Mail extension integration and deletion safeguards. | [#3805](https://github.com/hashgraph-online/hol-guard/pull/3805)&nbsp;·&nbsp;[#3278](https://github.com/hashgraph-online/hol-guard/pull/3278) |
 | **[FastMCP](https://github.com/punkpeye/fastmcp)** | Additional properties in tool output schemas. | [#373](https://github.com/punkpeye/fastmcp/pull/373) |
 | **[MCPHub](https://github.com/samanhappy/mcphub)** | Server lifetime while tools are running. | [#1164](https://github.com/samanhappy/mcphub/pull/1164) |
 | **[virtua](https://github.com/inokawa/virtua)** | Viewport measurement for fixed-position containers. | [#1060](https://github.com/inokawa/virtua/pull/1060)&nbsp;·&nbsp;[#965](https://github.com/inokawa/virtua/pull/965) |
 | **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** | PPTX editor listing in the plugin directory. | [#5370](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/5370) |
+| **[vue-components](https://github.com/antdv-next/vue-components)** | Latest: fix(tree): honor controlled expanded keys on mount | [#139](https://github.com/antdv-next/vue-components/pull/139) |
 
 <!-- CONTRIBUTIONS:END -->
 
